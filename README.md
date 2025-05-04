@@ -5,6 +5,7 @@ Ingin tahu bagaimana komunikasi real-time bekerja di web, seperti aplikasi chat 
 📖 Baca artikel lengkapnya di sini:  
 👉 [Eksperimen Sederhana Komunikasi Real-Time](https://medium.com/@faiz.maulana1405/dari-http-ke-websocket-eksperimen-sederhana-komunikasi-real-time-624c47539211)
 
+---
 
 ## 📘 Apa yang Akan Kamu Pelajari?
 
