@@ -65,5 +65,5 @@ Berikut hasil tampilan eksperimen komunikasi real-time:
 
 ---
 
-📌 Ditulis oleh [@ariqibtihal19](https://medium.com/@faiz.maulana1405)  
+📌 Ditulis oleh [@FaizMaulana](https://medium.com/@faiz.maulana1405)  
 🔬 Selamat bereksperimen dan semoga sukses memahami komunikasi real-time di web!
