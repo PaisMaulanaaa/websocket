@@ -1,25 +1,24 @@
-# 💬 Belajar WebSocket: Dari Konsep hingga Implementasi Sederhana
+# ⚡ Eksperimen Sederhana Komunikasi Real-Time dengan WebSocket
 
-Ingin membangun **aplikasi web real-time** seperti chat app atau notifikasi langsung tanpa refresh? Artikel ini akan membimbingmu memahami **konsep WebSocket** serta memberikan contoh **implementasi WebSocket** sederhana menggunakan **HTML**, **CSS**, dan **JavaScript**.
+Ingin tahu bagaimana komunikasi real-time bekerja di web, seperti aplikasi chat tanpa reload? Artikel ini membahas eksperimen sederhana membangun komunikasi **real-time** menggunakan **WebSocket** dengan **HTML**, **CSS**, dan **JavaScript**.
 
 📖 Baca artikel lengkapnya di sini:  
 👉 [Eksperimen Sederhana Komunikasi Real-Time](https://medium.com/@faiz.maulana1405/dari-http-ke-websocket-eksperimen-sederhana-komunikasi-real-time-624c47539211)
-
 ---
 
 ## 📘 Apa yang Akan Kamu Pelajari?
 
-✅ **Pengenalan WebSocket**  
-Pelajari perbedaan WebSocket dengan HTTP biasa, dan bagaimana WebSocket bekerja di balik layar.
+✅ **Dasar Komunikasi Real-Time dengan WebSocket**  
+Pelajari bagaimana WebSocket bekerja untuk menciptakan koneksi dua arah yang efisien antara client dan server.
 
-✅ **Manfaat WebSocket**  
-Kenapa teknologi ini jadi kunci untuk aplikasi real-time seperti live chat, game multiplayer, dan dashboard data?
+✅ **Perbandingan dengan HTTP**  
+Mengapa WebSocket lebih cocok untuk aplikasi seperti live chat, dashboard, atau notifikasi langsung?
 
-✅ **Implementasi Sederhana**  
-Bangun aplikasi chat mini menggunakan WebSocket dengan kode yang mudah dipahami.
+✅ **Eksperimen Langsung**  
+Uji langsung cara kerja WebSocket dengan membuat aplikasi chat sederhana.
 
-✅ **Kode Lengkap & Ringan**  
-Hanya menggunakan HTML, CSS, dan JavaScript—tanpa library berat!
+✅ **Kode Ringkas & Mudah Dipahami**  
+Implementasi ringan tanpa framework eksternal—cukup HTML, CSS, dan JavaScript.
 
 ---
 
@@ -33,27 +32,27 @@ Hanya menggunakan HTML, CSS, dan JavaScript—tanpa library berat!
 
 ---
 
-## 📸 Tampilan Aplikasi  
-Berikut hasil eksperimen sederhana menggunakan WebSocket:
+## 📸 Hasil Eksperimen  
+Berikut hasil tampilan eksperimen komunikasi real-time:
 
-![Screenshot WebSocket Chat App](https://medium.com/@faiz.maulana1405/dari-http-ke-websocket-eksperimen-sederhana-komunikasi-real-time-624c47539211)
+![Screenshot WebSocket Chat App](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0JcImNcgORfb7Aiscxyysw.png)
 
 ---
 
 ## 🚀 Cara Menjalankan Proyek
 
-1. **Siapkan server WebSocket** (misalnya: `ws://localhost:8080`)
-2. Clone atau download project ini ke komputer kamu
-3. Buka file `index.html` menggunakan browser modern (Chrome/Firefox)
-4. Chat langsung dan lihat WebSocket bekerja secara real-time!
+1. **Pastikan server WebSocket aktif** (contoh: `ws://localhost:8080`)
+2. Clone atau download project ini
+3. Buka file `index.html` di browser (Chrome/Firefox)
+4. Mulai kirim pesan real-time dan lihat bagaimana WebSocket bekerja!
 
 ---
 
 ## 💡 Tips & Catatan
 
-- WebSocket membutuhkan **server aktif**. Jika belum punya, kamu bisa coba Node.js dengan `ws` library.
-- Gunakan **browser modern** yang mendukung WebSocket.
-- Cocok untuk latihan awal membangun aplikasi real-time.
+- Gunakan server lokal atau buat server sederhana dengan Node.js dan library `ws`.
+- Pastikan browser kamu mendukung WebSocket (semua browser modern sudah mendukung).
+- Cocok sebagai eksperimen awal untuk memahami teknologi komunikasi real-time di web.
 
 ---
 
@@ -66,4 +65,4 @@ Berikut hasil eksperimen sederhana menggunakan WebSocket:
 ---
 
 📌 Ditulis oleh [@ariqibtihal19](https://medium.com/@faiz.maulana1405)  
-🎉 Selamat mencoba dan semoga sukses membangun aplikasi WebSocket pertamamu!
+🔬 Selamat bereksperimen dan semoga sukses memahami komunikasi real-time di web!
