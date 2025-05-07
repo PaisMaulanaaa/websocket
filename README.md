@@ -3,7 +3,7 @@
 Ingin tahu bagaimana komunikasi real-time bekerja di web, seperti aplikasi chat tanpa reload? Artikel ini membahas eksperimen sederhana membangun komunikasi **real-time** menggunakan **WebSocket** dengan **HTML**, **CSS**, dan **JavaScript**.
 
 📖 Baca artikel lengkapnya di sini:  
-👉 [Eksperimen Sederhana Komunikasi Real-Time](https://medium.com/@faiz.maulana1405/dari-http-ke-websocket-eksperimen-sederhana-komunikasi-real-time-624c47539211)
+👉 [Eksperimen Sederhana Komunikasi Real-Time](https://medium.com/@faiz.maulana1405/dari-http-ke-websocket-eksperimen-sederhana-komunikasi-real-time-c240525e071a)
 
 ---
 
